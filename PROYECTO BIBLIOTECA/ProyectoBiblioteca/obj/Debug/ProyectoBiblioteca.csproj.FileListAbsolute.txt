@@ -1,0 +1,43 @@
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe.config
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormBiblioteca.resources
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormUsuario.resources
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormEmpleados.resources
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormLibreria.resources
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormPrestamos.resources
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.pdb
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.exe
+\\vmware-host\Shared Folders\Documentos\PROGRAMAS\EjerciciosJoseLuis\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.pdb
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe.config
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.exe
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.pdb
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.pdb
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormBiblioteca.resources
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormEmpleados.resources
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormLibreria.resources
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormPrestamos.resources
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormUsuario.resources
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormNuevoLibro.resources
+\\vmware-host\Shared Folders\Escritorio\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormAcercaDe.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe.config
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.exe
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.pdb
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.pdb
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormBiblioteca.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormAcercaDe.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormEmpleados.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormLibreria.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormNuevoLibro.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormPrestamos.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.FormUsuario.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\PROYECTO BIBLIOTECA\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+﻿DROP TABLE Realiza;
+DROP TABLE Usuario;
+DROP TABLE Empleado;
+DROP TABLE Tiene;
+DROP TABLE Prestamo;
+DROP TABLE Escribe;
+DROP TABLE Libro;
+DROP TABLE Categoria;
+DROP TABLE Autor;
+DROP TABLE Estilo;
